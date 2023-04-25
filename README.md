@@ -15,8 +15,8 @@ Sets two body fields to an empty string[^1].
 * Amount Paid (custbody_order_amountpaid) [^5]
 * Payments On Time Until  (custbody_order_paymentsontime)
 
-[^1]: Don't know why these fields are set
-[^5]: This field seems to be 0 for all orders 
+[^1]: Don't know why these fields are set.
+[^5]: On the payment subtab. This field seems to be 0 for all orders.
 
 #### When creating an order from an opportunity
 
